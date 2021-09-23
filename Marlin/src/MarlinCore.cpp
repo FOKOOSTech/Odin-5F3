@@ -26,6 +26,7 @@
  * This firmware is a mashup between Sprinter and grbl.
  *  - https://github.com/kliment/Sprinter
  *  - https://github.com/grbl/grbl
+ *  
  */
 
 #include "MarlinCore.h"
